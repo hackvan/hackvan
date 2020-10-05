@@ -5,7 +5,7 @@
 - 🔭 I’m currently working with 🛠 PL/SQL (Oracle), SQL & ❤ Ruby
 - 🌱 I’m currently learning: 🤓 Javascript 
 - 💬 Ask me about: 🇨🇴 Colombia
-- 📫 How to reach me: Email or (Twitter)[https://twitter.com/_hackvan]
+- 📫 How to reach me: [Email](mailto:hackvan@gmail.com) or [Twitter](https://twitter.com/_hackvan)
 - 😄 Pronouns: he/his
 
 <!--

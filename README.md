@@ -2,8 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackvan&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working with 🛠 PL/SQL (Oracle), SQL & ❤ Ruby
-- 🌱 I’m currently learning: 🤔 [elixir-lang](https://elixir-lang.org/)
+- 🔭 I’m previously working with 🛠 PL/SQL (Oracle), SQL & ❤ Ruby
+- 🌱 I’m currently learning/working with [elixir-lang](https://elixir-lang.org/) 🤔
 - 💬 Ask me about: 🇨🇴 Colombia
 - 📫 How to reach me: [Email](mailto:hackvan@gmail.com) or [Twitter](https://twitter.com/_hackvan)
 - 😄 Pronouns: he/his

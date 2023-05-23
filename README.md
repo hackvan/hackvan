@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackvan&layout=compact&langs_count=6&show_icons=true&theme=react&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working with ✨Elixir✨ and Phoenix framework 🔥
-- 🌱 I’m currently learning about React framework
+- 🌱 I’m currently learning about BEAM
 - 🔙 I’m previously working with 🛠 PL/SQL (Oracle), SQL & ❤ Ruby
 - 📍 I’m located: Colombia 🇨🇴
 - 💬 Ask me about: Anything I can help with 🤓
